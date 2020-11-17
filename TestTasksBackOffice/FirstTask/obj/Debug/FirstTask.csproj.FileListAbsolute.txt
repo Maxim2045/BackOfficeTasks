@@ -1,0 +1,12 @@
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\bin\Debug\FirstTask.exe.config
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\bin\Debug\FirstTask.exe
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\bin\Debug\FirstTask.pdb
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\bin\Debug\EntityFramework.dll
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\bin\Debug\EntityFramework.xml
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\bin\Debug\EntityFramework.SqlServer.xml
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\obj\Debug\FirstTask.csprojAssemblyReference.cache
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\obj\Debug\FirstTask.csproj.CopyComplete
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\obj\Debug\FirstTask.exe
+D:\Загрузки\Apps\TestTasksBackOffice\FirstTask\obj\Debug\FirstTask.pdb

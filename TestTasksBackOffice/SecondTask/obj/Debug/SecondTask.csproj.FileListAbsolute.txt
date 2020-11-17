@@ -1,0 +1,7 @@
+D:\Загрузки\Apps\TestTasksBackOffice\SecondTask\bin\Debug\SecondTask.exe.config
+D:\Загрузки\Apps\TestTasksBackOffice\SecondTask\bin\Debug\SecondTask.exe
+D:\Загрузки\Apps\TestTasksBackOffice\SecondTask\bin\Debug\SecondTask.pdb
+D:\Загрузки\Apps\TestTasksBackOffice\SecondTask\obj\Debug\SecondTask.csprojAssemblyReference.cache
+D:\Загрузки\Apps\TestTasksBackOffice\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+D:\Загрузки\Apps\TestTasksBackOffice\SecondTask\obj\Debug\SecondTask.exe
+D:\Загрузки\Apps\TestTasksBackOffice\SecondTask\obj\Debug\SecondTask.pdb

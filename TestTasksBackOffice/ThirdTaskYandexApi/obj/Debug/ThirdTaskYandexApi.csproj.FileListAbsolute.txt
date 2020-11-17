@@ -1,0 +1,14 @@
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\ThirdTaskYandexApi.exe.config
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\ThirdTaskYandexApi.exe
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\ThirdTaskYandexApi.pdb
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\obj\Debug\ThirdTaskYandexApi.csproj.CoreCompileInputs.cache
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\obj\Debug\ThirdTaskYandexApi.exe
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\obj\Debug\ThirdTaskYandexApi.pdb
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\obj\Debug\ThirdTaskYandexApi.csprojAssemblyReference.cache
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\Newtonsoft.Json.dll
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\Newtonsoft.Json.xml
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\obj\Debug\ThirdTaskYandexApi.csproj.CopyComplete
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\EntityFramework.dll
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\EntityFramework.xml
+D:\Загрузки\Apps\TestTasksBackOffice\ThirdTaskYandexApi\bin\Debug\EntityFramework.SqlServer.xml

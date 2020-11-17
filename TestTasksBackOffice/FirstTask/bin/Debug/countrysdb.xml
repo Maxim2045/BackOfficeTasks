@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<Preparats>
+  <Preparat>
+    <Id>1</Id>
+    <Name>Велкардио</Name>
+  </Preparat>
+  <Preparat>
+    <Id>2</Id>
+    <Name>Помелан</Name>
+  </Preparat>
+</Preparats>
